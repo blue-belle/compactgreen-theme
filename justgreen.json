@@ -1,5 +1,5 @@
 {
-    "name": "Compact Green",
+    "name": "ChatGPT Green",
     "description": "My favourite green :3",
     "authors": [
         {
@@ -7,16 +7,10 @@
         }
     ],
     "semanticColors": {
-        "CHANNELS_DEFAULT": [
-            "#7c7f93", "#7c7f93"
-        ],
-        "TEXT_LINK": [
-            "#009351", "#009351"
-        ],
-        "GREEN_500": "#40a02b",
-        "GREEN_600": "#40a02b",
-        "GREEN_700": "#40a02b",
-        "GREEN_800": "#40a02b"
+        "CHANNELS_DEFAULT": "#7c7f93",
+        "TEXT_LINK": "#009351",
+        "ICON_MUTED": "#40a02b",
+        "GREEN_500": "#40a02b"
     },
     "rawColors": {
         "BRAND_500": "#009351",
