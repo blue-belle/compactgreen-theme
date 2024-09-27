@@ -104,16 +104,16 @@
       "#4c4f69", "#4c4f69"
       ],
       "INTERACTIVE_HOVER": [
-      "#9ca0b0", "#9ca0b0"
+      "#1f2328", "#1f2328"
       ],
       "INTERACTIVE_MUTED": [
-      "#9893a5", "#9893a5"
+      "#1f2328", "#1f2328"
       ],
       "INTERACTIVE_NORMAL": [
-      "#545766", "#545766"
+      "#1f2328", "#1f2328"
       ],
       "INPUT_PLACEHOLDER_TEXT": [
-      "#41444f", "#41444f"
+      "#1f2328", "#1f2328"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#dce0e8", "#dce0e8"
@@ -152,7 +152,7 @@
       "#d20f39", "#d20f39"
       ],
       "STATUS_DANGER_TEXT": [
-      "#9a9ca0", "#9a9ca0"
+      "#1f2328", "#1f2328"
       ],
       "MENTION_FOREGROUND": [
       "#d20f39", "#d20f39"
@@ -180,7 +180,7 @@
       "BRAND_500": "#009351",
       "PRIMARY_100": "#ccd0da",
       "PRIMARY_130": "#e6e9ef",
-      "PRIMARY_160": "#9ca0b0",
+      "PRIMARY_160": "#1f2328",
       "PRIMARY_200": "#e6e9ef",
       "PRIMARY_230": "#ccd0da",
       "PRIMARY_300": "#df8e1d",
@@ -244,7 +244,7 @@
       "RED_830": "#d20f39",
       "RED_860": "#d20f39",
       "RED_900": "#d20f39",
-      "ROLE_DEFAULT": "#99aab5",
+      "ROLE_DEFAULT": "#1f2328",
       "YELLOW_100": "#df8e1d",
       "YELLOW_130": "#df8e1d",
       "YELLOW_160": "#df8e1d",
@@ -397,7 +397,7 @@
           "StatusMobileOnline": "#40a02b",
           "StatusIdle": "#df8e1d",
           "StatusDND": "#d20f39",
-          "StatusOffline": "#9893a5",
+          "StatusOffline": "#1f2328",
           "StatusOnline": "#40a02b",
           "StatusStreaming": "#8839ef",
           "toast_copy_link": "#40a02b",
