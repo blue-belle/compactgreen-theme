@@ -166,9 +166,10 @@
       "TEXT_MUTED": [
       "#333549", "#333549"
       ],
-      "TEXT_NORMAL": [
-      "#0e0f12", "#0e0f12"
-      ],
+        "TEXT_NORMAL": [
+            "#ffede9",
+            "#ffede9"
+        ],
       "TEXT_SECONDARY": [
       "#333549", "#333549"
       ]
