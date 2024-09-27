@@ -1,1 +1,51 @@
-
+{
+    "name": "Compact Green",
+    "description": "My favourite green :3",
+    "authors": [
+        {
+            "name": "bluebelle"
+        }
+    ],
+    "semanticColors": {
+        "CHANNELS_DEFAULT": [
+            "#7c7f93", "#7c7f93"
+        ],
+        "TEXT_LINK": [
+            "#009351", "#009351"
+        ],
+        "GREEN_500": "#40a02b",
+        "GREEN_600": "#40a02b",
+        "GREEN_700": "#40a02b",
+        "GREEN_800": "#40a02b"
+    },
+    "rawColors": {
+        "BRAND_500": "#009351",
+        "GREEN_100": "#40a02b",
+        "GREEN_200": "#40a02b",
+        "GREEN_300": "#40a02b",
+        "GREEN_400": "#40a02b",
+        "GREEN_500": "#40a02b",
+        "GREEN_600": "#40a02b",
+        "GREEN_700": "#40a02b",
+        "GREEN_800": "#40a02b"
+    },
+    "fonts": {},
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "icons": {
+            "hub-invite": "#40a02b",
+            "ic_add_friend": "#40a02b",
+            "ic_copy_id": "#40a02b",
+            "ic_copy_message_link": "#40a02b",
+            "ic_duplicate": "#40a02b",
+            "ic_edit_20px": "#40a02b",
+            "ic_edit_24px": "#40a02b",
+            "ic_message_copy": "#40a02b",
+            "toast_copy_link": "#40a02b",
+            "toast_copy_message": "#40a02b",
+            "toast_image_saved": "#40a02b"
+        }
+    },
+    "spec": 2
+}
