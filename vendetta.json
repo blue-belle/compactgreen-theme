@@ -10,11 +10,6 @@
       "ANDROID_RIPPLE": [
       "#464951", "#464951"
       ],
-    "TEXT_NORMAL": [
-      "#fbf1c7",
-      "#282828",
-      "#ebdbb2"
-      ],
       "BACKGROUND_ACCENT": [
       "#7c7f93", "#7c7f93"
       ],
@@ -115,7 +110,7 @@
       "#9893a5", "#9893a5"
       ],
       "INTERACTIVE_NORMAL": [
-      "#7c7f93", "#7c7f93"
+      "#545766", "#545766"
       ],
       "INPUT_PLACEHOLDER_TEXT": [
       "#41444f", "#41444f"
@@ -139,7 +134,7 @@
       "#5c5f77", "#5c5f77"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#6c6f85", "#6c6f85"
+      "#535567", "#535567"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#e6e9ef", "#e6e9ef"
@@ -157,7 +152,7 @@
       "#d20f39", "#d20f39"
       ],
       "STATUS_DANGER_TEXT": [
-      "#eff1f5", "#eff1f5"
+      "#9a9ca0", "#9a9ca0"
       ],
       "MENTION_FOREGROUND": [
       "#d20f39", "#d20f39"
@@ -166,7 +161,7 @@
       "#d20f39", "#d20f39"
       ],
       "TEXT_LINK": [
-      "#dc8a78", "#dc8a78"
+      "#009351", "#009351"
       ],
       "TEXT_MUTED": [
       "#333549", "#333549"
