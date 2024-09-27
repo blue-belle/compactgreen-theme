@@ -5,8 +5,9 @@
       {
         "name": "bluebelle"
       }
+    ],   
     "semanticColors": {        
-    ],
+    
       "TEXT_LINK": [
       "#009351", "#009351"
       ],    
