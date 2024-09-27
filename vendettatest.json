@@ -6,15 +6,5 @@
         "name": "bluebelle"
       }
     ],
-      "TEXT_LINK": [
-      "#009351", "#009351"
-      ],
-
-    "rawColors": {
-      "BRAND_500": "#009351",
-      "PRIMARY_800": "#009351",
- },
- 
-},
     "spec": 2
-
+}
